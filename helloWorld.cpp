@@ -1,5 +1,4 @@
 #include <iostream>
-using namespace std;
 
 int
 main()
@@ -10,4 +9,3 @@ main()
   std::cin >> name;
   std::cout << "Hello, World from " << name << "!" << std::endl;
 }
-
